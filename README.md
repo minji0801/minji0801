@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 <!-- Header 438CB5 106BFF -->
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=300&section=header&text=Minji%20Kim&fontSize=90&fontColor=FFFFFF)
 
-<!-- Badge -->
+<!-- Badge 
 Tech Stack
 
 Techs that I've used at least once
 
 Swift Firebase Java Node.js css html Javascript MSSql Sql Sqlite C# C++ Tensorflor Python
+-->
+
 
 <!-- Experience -->
 
