@@ -83,13 +83,13 @@
   
   [![Scoit_Icon](https://user-images.githubusercontent.com/49383370/152141886-3e2b33b6-608e-4b5d-8dce-41192ffca72c.png)](https://apps.apple.com/kr/app/scoit/id1576850548)
   
-  Scoit(v1.0.5) - 스쿼트 챌린지 앱
+  Scoit(v1.0.5) - Squat Challenge App
   
   <br/>
   
   [![Modakyi_Icon](https://user-images.githubusercontent.com/49383370/152140350-9b1d1818-6e98-43f8-8079-4ce7a75c626f.png)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%8B%A5%EC%9D%B4/id1596424726)
   
-  모닥이(v1.3.0) - 글귀 & 명언 모음 앱
+  모닥이(v1.3.0) - Phrases & sayings collection app
 <!--   <br/> -->
 <!--   (Repository: https://github.com/minji0801/Modakyi) -->
   
@@ -97,7 +97,7 @@
   
   [![hours_Icon](https://user-images.githubusercontent.com/49383370/152140716-a8f04be2-dba8-4528-b07a-8f44b85273fe.png)](https://apps.apple.com/kr/app/h-ours/id1605524722)
     
-  h:ours(v1.3.0) - 시간 & 디데이 계산 앱
+  h:ours(v1.3.0) - Time & D-Day Calculation App
 <!--   <br/>
   (Repository: https://github.com/minji0801/TimeCalculator) -->
     
