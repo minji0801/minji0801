@@ -5,9 +5,11 @@
   
   <br/>
   <br/>
+  <br/>
+  <br/>
   
   <!-- Badge -->
-  # Tech Stack
+  # 🦋 Tech Stack 🦋
   <br/>
   
   Techs that I've used at least once
@@ -49,9 +51,12 @@
   
   <br/>
   <br/>
+  <br/>
+  <br/>
   
-  # Cowork Tools
+  # 🐬 Cowork Tools 🐬
  
+  <br/>
   <br/>
   
   <p>
@@ -66,35 +71,37 @@
   
   <br/>
   <br/>
+  <br/>
 
   <!-- Experience -->
 
   <!-- My Apps -->
-  # My Apps
+  # 💙 My Apps 💙
   
   <br/>
   
   [![Scoit_Icon](https://user-images.githubusercontent.com/49383370/152141886-3e2b33b6-608e-4b5d-8dce-41192ffca72c.png)](https://apps.apple.com/kr/app/scoit/id1576850548)
   
-  Scoit - 스쿼트 챌린지 앱
+  Scoit(v1.0.5) - 스쿼트 챌린지 앱
   
   <br/>
   
   [![Modakyi_Icon](https://user-images.githubusercontent.com/49383370/152140350-9b1d1818-6e98-43f8-8079-4ce7a75c626f.png)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%8B%A5%EC%9D%B4/id1596424726)
   
-  모닥이 - 글귀 & 명언 모음 앱
-  <br/>
-  (Repository: https://github.com/minji0801/Modakyi)
+  모닥이(v1.3.0) - 글귀 & 명언 모음 앱
+<!--   <br/> -->
+<!--   (Repository: https://github.com/minji0801/Modakyi) -->
   
   <br/>
   
   [![hours_Icon](https://user-images.githubusercontent.com/49383370/152140716-a8f04be2-dba8-4528-b07a-8f44b85273fe.png)](https://apps.apple.com/kr/app/h-ours/id1605524722)
     
-  h:ours - 시간 & 디데이 계산 앱
-  <br/>
-  (Repository: https://github.com/minji0801/TimeCalculator)
+  h:ours(v1.3.0) - 시간 & 디데이 계산 앱
+<!--   <br/>
+  (Repository: https://github.com/minji0801/TimeCalculator) -->
     
 
+  <br/>
   <br/>
   <br/>
   
@@ -102,10 +109,12 @@
   
   <br/>
   <br/>
+  <br/>
   
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=minji0801&show_icons=true"/>
   
+  <br/>
   <br/>
   <br/>
   
