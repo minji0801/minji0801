@@ -113,7 +113,7 @@
   <br/>
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=minji0801&show_icons=true"/>
+  <a href="https://github.com/minji0801"><img src="https://github-readme-stats.vercel.app/api?username=minji0801&show_icons=true"/></a>
   
   <br/>
   <br/>
