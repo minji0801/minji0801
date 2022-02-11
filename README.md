@@ -98,8 +98,8 @@
   [![hours_Icon](https://user-images.githubusercontent.com/49383370/152140716-a8f04be2-dba8-4528-b07a-8f44b85273fe.png)](https://apps.apple.com/kr/app/h-ours/id1605524722)
     
   h:ours(v1.3.2) - Time & D-Day Calculation App
-<!--   <br/>
-  (Repository: https://github.com/minji0801/TimeCalculator) -->
+  <br/>
+  (Repository: https://github.com/minji0801/TimeCalculator)
     
 
   <br/>
