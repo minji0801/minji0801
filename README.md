@@ -84,6 +84,8 @@
   [![Scoit_Icon](https://user-images.githubusercontent.com/49383370/152141886-3e2b33b6-608e-4b5d-8dce-41192ffca72c.png)](https://apps.apple.com/kr/app/scoit/id1576850548)
   
   Scoit(v1.0.5) - Squat Challenge App
+  <br/>
+  (No Repository)
   
   <br/>
   
@@ -91,7 +93,7 @@
   
   모닥이(v1.4.1) - Phrases & sayings collection app
   <br/>
-  Repository: https://github.com/minji0801/Modakyi)
+  (Repository: https://github.com/minji0801/Modakyi)
   
   <br/>
   
