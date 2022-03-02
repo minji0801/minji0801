@@ -90,8 +90,8 @@
   [![Modakyi_Icon](https://user-images.githubusercontent.com/49383370/152140350-9b1d1818-6e98-43f8-8079-4ce7a75c626f.png)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%8B%A5%EC%9D%B4/id1596424726)
   
   모닥이(v1.4.0) - Phrases & sayings collection app
-<!--   <br/> -->
-<!--   (Repository: https://github.com/minji0801/Modakyi) -->
+  <br/>
+  Repository: https://github.com/minji0801/Modakyi)
   
   <br/>
   
