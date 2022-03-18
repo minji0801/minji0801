@@ -1,7 +1,7 @@
 <div align="center">
  
   <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=300&section=header&text=Minji%20Kim&fontSize=90&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=250&section=header&text=Minji%20Kim&fontSize=80&fontColor=FFFFFF"/>
   
   <br/>
   <br/>
@@ -9,12 +9,8 @@
   <br/>
   
   <!-- Badge -->
-  # 🦋 Tech Stack 🦋
-  <br/>
-  
+  ## 🦋 Tech Stack 🦋
   Techs that I've used at least once
-  
-  <br/>
   
   <!-- Language -->
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
@@ -54,11 +50,7 @@
   <br/>
   <br/>
   
-  # 🐬 Cowork Tools 🐬
- 
-  <br/>
-  <br/>
-<!--   https://zeplin.io/static/favicon-256x256.png -->
+  ## 🐬 Cowork Tools 🐬
   <p>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
@@ -74,38 +66,37 @@
   <br/>
   <br/>
 
-  <!-- Experience -->
-
   <!-- My Apps -->
-  # 💙 My Apps 💙
-  
-  <br/>
-  <br/>
-  
-  [![Scoit_Icon](https://user-images.githubusercontent.com/49383370/152141886-3e2b33b6-608e-4b5d-8dce-41192ffca72c.png)](https://apps.apple.com/kr/app/scoit/id1576850548)
-  
+  ## 💙 My Apps 💙
+  <a href="https://apps.apple.com/kr/app/scoit/id1576850548">
+   <img alt=Scoit"" width="80" src="https://user-images.githubusercontent.com/49383370/152141886-3e2b33b6-608e-4b5d-8dce-41192ffca72c.png"/>
+  </a>
+ 
   Scoit(v1.0.5) - Squat Challenge App
   <br/>
   (No Repository)
   
   <br/>
   
-  [![Modakyi_Icon](https://user-images.githubusercontent.com/49383370/152140350-9b1d1818-6e98-43f8-8079-4ce7a75c626f.png)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%8B%A5%EC%9D%B4/id1596424726)
-  
-  모닥이(v1.4.1) - Phrases & sayings collection app
+  <a href="https://apps.apple.com/kr/app/%EB%AA%A8%EB%8B%A5%EC%9D%B4/id1596424726">
+   <img alt=Modakyi"" width="80" src="https://user-images.githubusercontent.com/49383370/152140350-9b1d1818-6e98-43f8-8079-4ce7a75c626f.png"/>
+  </a>
+ 
+  모닥이(v1.5.0) - Phrases & sayings collection app
   <br/>
   (Repository: https://github.com/minji0801/Modakyi)
   
   <br/>
   
-  [![hours_Icon](https://user-images.githubusercontent.com/49383370/152140716-a8f04be2-dba8-4528-b07a-8f44b85273fe.png)](https://apps.apple.com/kr/app/h-ours/id1605524722)
+  <a href="https://apps.apple.com/kr/app/h-ours/id1605524722">
+   <img alt=hours"" width="80" src="https://user-images.githubusercontent.com/49383370/152140716-a8f04be2-dba8-4528-b07a-8f44b85273fe.png"/>
+  </a>
     
   h:ours(v1.3.2) - Time & D-Day Calculation App
   <br/>
   (Repository: https://github.com/minji0801/TimeCalculator)
     
 
-  <br/>
   <br/>
   <br/>
   
