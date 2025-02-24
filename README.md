@@ -111,10 +111,26 @@
   <br/>
    
   <!-- GitHub Stats -->
+
+  Personal
   
- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=minji0801&theme=tokyonight)
   <a href="https://github.com/minji0801"><img src="https://github-readme-stats.vercel.app/api?username=minji0801&show_icons=true&theme=tokyonight"/></a>
   
+  <br/>
+  
+ ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=minji0801&theme=dracula)
+
+ <br/>
+ <br/>
+
+  Company
+  
+  <a href="https://github.com/3i-ArlinKim"><img src="https://github-readme-stats.vercel.app/api?username=3i-ArlinKim&show_icons=true&theme=tokyonight"/></a>
+  
+  <br/>
+
+ ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=3i-ArlinKim&theme=dracula)
+ 
   <br/>
   <br/>
   <br/>
